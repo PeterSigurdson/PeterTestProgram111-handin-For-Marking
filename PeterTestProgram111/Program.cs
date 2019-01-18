@@ -12,6 +12,20 @@ namespace PeterTestProgram111
 
         {
             Console.WriteLine(1 + 1);
+            // Now let us practice another commit!
+            var MyDog = new Peanut1("BARK Bark!");
+
+        }
+    }
+    class Peanut1
+    {
+        public Peanut1(string noise)
+        {
+            Console.WriteLine("RUFF RUFF!~!");
+            Console.WriteLine(noise);
+            // predict what we will see!
+            // now commit this update!
+
         }
     }
 }
